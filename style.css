@@ -47,4 +47,5 @@ span{
 }
 i:hover{
     color: darkblue;
+    font-weight: bolder;
 }
